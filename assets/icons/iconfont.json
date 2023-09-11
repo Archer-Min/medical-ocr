@@ -1,0 +1,30 @@
+{
+  "id": "3869075",
+  "name": "flutter医疗文献检索",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "201571",
+      "name": "3.1-搜索",
+      "font_class": "31sousuo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "24158826",
+      "name": "个人中心-第一堂课",
+      "font_class": "gerenzhongxin-diyitangke",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "24158832",
+      "name": "首页-库房管理",
+      "font_class": "shouye-kufangguanli",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    }
+  ]
+}
